@@ -1,5 +1,5 @@
 {
-  "name": "project-task-manager",
+  "name": "@KIlo0110/project-task-manager",
   "version": "1.0.0",
   "description": "A CLI tool to help consolidate and manage tasks and features on a project",
   "main": "src/index.mjs",
