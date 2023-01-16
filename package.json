@@ -9,7 +9,17 @@
     "dev": "nodemon src/index.mjs"
   },
   "keywords": [],
-  "author": "KamCy Ahaka <kamcyahaka@gmail.com>",
+  "author": {
+    "name": "KamCy Ahaka",
+    "email": "kamcyahaka@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kilo0110/Tasker"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "dependencies": {
     "commander": "^10.0.0",
